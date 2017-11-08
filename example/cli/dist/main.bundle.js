@@ -3677,9 +3677,9 @@ function View_LoadingComponent_0(l) {
                 0,
                 'ngTemplateOutlet'
             ],
-            ngOutletContext: [
+            ngTemplateOutletContext: [
                 1,
-                'ngOutletContext'
+                'ngTemplateOutletContext'
             ]
         }, null),
         __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* ɵpod */](['$implicit']),
@@ -3766,9 +3766,9 @@ function View_TreeNodeContent_0(l) {
                 0,
                 'ngTemplateOutlet'
             ],
-            ngOutletContext: [
+            ngTemplateOutletContext: [
                 1,
-                'ngOutletContext'
+                'ngTemplateOutletContext'
             ]
         }, null),
         __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* ɵpod */]([
@@ -4082,9 +4082,9 @@ function View_TreeNodeWrapperComponent_0(l) {
                 0,
                 'ngTemplateOutlet'
             ],
-            ngOutletContext: [
+            ngTemplateOutletContext: [
                 1,
-                'ngOutletContext'
+                'ngTemplateOutletContext'
             ]
         }, null),
         __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* ɵpod */]([
@@ -4314,9 +4314,9 @@ function View_TreeNodeComponent_1(l) {
                 0,
                 'ngTemplateOutlet'
             ],
-            ngOutletContext: [
+            ngTemplateOutletContext: [
                 1,
-                'ngOutletContext'
+                'ngTemplateOutletContext'
             ]
         }, null),
         __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* ɵpod */]([
